@@ -3,11 +3,14 @@
 
 const Home = () => {
     return (
-        <div>
-            <h1 className="font-DynaPuff">
-                Soy el Home
-            </h1>
-        </div>
+      <>
+     <div>
+      <h1 className="text-5xl text-center bg-orange-700 h-screen text-white" >
+        Soy el Home
+      </h1>            
+    </div>
+    
+    </>
     )
 }
 

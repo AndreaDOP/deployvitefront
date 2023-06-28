@@ -1,11 +1,14 @@
 
 import 'semantic-ui-css/semantic.min.css'
+import 'tailwindcss/tailwind.css';
 import Navegacion from './Componenetes/Navegacion';
 import Home from './Componenetes/Home';
 import Vite from './Componenetes/Vite';
 import Formulario from './Componenetes/Formulario';
 import Update from './Componenetes/Update';
 import { Routes, Route } from 'react-router-dom';
+
+
 
 function App() {
   return(
